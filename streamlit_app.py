@@ -50,7 +50,7 @@ class VideoTransformer(VideoTransformerBase):
 
             prediction = model.predict(final_img)[0]
             label=emotion_labels[prediction.argmax()]
-            cv2.putText(img,label,(x,y-10),cv2.FONT_HERSHEY_SIMPLEX,1,(0,255,0),2)    
+            cv2.putText(frame,label,(x,y-10),cv2.FONT_HERSHEY_SIMPLEX,1,(255,255,0),2)    
         return img
 
 webrtc_streamer(
