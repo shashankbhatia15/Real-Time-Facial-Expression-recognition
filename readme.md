@@ -20,9 +20,9 @@ https://share.streamlit.io/shashankbhatia15/real-time-face-emotion-detector/main
 1. install python
 2. open cmd and run the following commands
 
-   `git clone https://github.com/
+   `git clone https://github.com/shashankbhatia15/Real-Time-Face-Emotion-detector.git`
    
-   `cd Face-Emotion-Recognition`
+   `cd Real-Time-Face-Emotion-detector`
    
    `pip install -r requirements.txt`
    
