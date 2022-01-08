@@ -30,7 +30,7 @@ The final layer consists of activation function - *Softmax* for final prediction
 
 ## Dependencies
 
-Python 3\
+Python\
 Tensorflow\
 Streamlit\
 Streamlit-Webrtc\
