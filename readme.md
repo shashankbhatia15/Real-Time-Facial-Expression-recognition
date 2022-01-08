@@ -10,9 +10,11 @@ The final layer consists of activation function - *Softmax* for final prediction
 
 ## HOW TO RUN
 - Use it as a Web Application on streamlit
-1. Click on the link.
+1. Click on the link\
+https://share.streamlit.io/shashankbhatia15/real-time-face-emotion-detector/main
 2. Click on start
 3. Give the required permission(s)
+4. Click on stop when you are done.
 
 - Run it on your local machine
 1. install python
@@ -52,7 +54,7 @@ Convolutional Neural Network is one of the technique to do image classification 
 5. FC (i.e. fully-connected) layer will compute the class scores and as the name implies, each neuron in this layer will be connected to all the numbers in the previous volume.
 
 ## CONCLUSION
-We have built a web applicaion on streamlit using a CNN model with validation accuracy of 67.3%. 
+We have built a web application on streamlit using a CNN model with validation accuracy of 67.3%. 
 
 
 
