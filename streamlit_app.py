@@ -40,7 +40,7 @@ class VideoTransformer(VideoTransformerBase):
             print("no faces detected")
 
         for (x,y,w,h) in faces:
-            cv2.rectangle(img,(x,y),(x+w,y+h),(0,255,255),2)
+            cv2.rectangle(frame,(x,y),(x+w,y+h),(255,0,255),3)
             img_crop = gray[y:y+h,x:x+w]
             img_crop = cv2.resize(img_crop,(48,48))
 
