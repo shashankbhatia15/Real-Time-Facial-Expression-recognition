@@ -12,7 +12,7 @@ from tensorflow.keras.preprocessing.image import img_to_array
 
 # loading the model files
 fc = cv2.CascadeClassifier(r'haarcascade_frontalface_default.xml')
-model =load_model(r'./model.h5')
+model =load_model(r'.model.h5')
 
 #emotion list
 emotions = ['Angry','Disgust','Fear','Happy','Neutral', 'Sad', 'Surprise']
