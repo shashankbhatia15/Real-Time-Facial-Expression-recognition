@@ -12,9 +12,10 @@ The final layer consists of activation function - *Softmax* for final prediction
 - Use it as a Web Application on streamlit
 1. Click on the link\
 https://share.streamlit.io/shashankbhatia15/real-time-face-emotion-detector/main
-2. Click on the start button. (it will take 1-2 mins to load after this)
-3. Give the required permission(s)
-4. Click on stop when you are done.
+2. Select device
+3. Click on the start button. (it will take 2 mins to load after this step)
+4. Give the required permission(s)
+5. Click on stop when you are done.
 
 - Run it on your local machine
 1. install python
