@@ -1,4 +1,4 @@
-# REAL TIME FACE EMOTION RECOGNITION
+# REAL TIME FACIAL EXRESSION RECOGNITION
 **Deep Learning + Machine Learning Engineering** project.
 
 ## INTRODUCTION
